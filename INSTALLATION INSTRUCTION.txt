@@ -1,0 +1,3 @@
+firt of all all the file is placed this location - C:\SHOP
+User name - ADMIN
+Password -12345
